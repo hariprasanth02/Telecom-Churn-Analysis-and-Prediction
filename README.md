@@ -9,10 +9,10 @@ A Power BI dashboard for telecom customer churn analysis, integrated with a mach
 ## 🖼️ Dashboard Preview
 
 ### Summary Page
-![Churn Analysis Summary](./screenshots/summary.png)
+<img width="1147" height="641" alt="Screenshot 2026-04-01 215231" src="https://github.com/user-attachments/assets/1761e5e8-1a73-4150-abf8-e8a174b8f03b" />
 
 ### Prediction Page
-![Churn Analysis Prediction](./screenshots/prediction.png)
+<img width="1145" height="650" alt="Screenshot 2026-04-01 215249" src="https://github.com/user-attachments/assets/6fd9b09d-91d3-414c-9642-967b0afaa531" />
 
 ---
 
@@ -135,5 +135,5 @@ The model was trained on historical customer data and its predictions are loaded
 Final Year B.Tech – Computer Science (AI), Parul University
 Data Engineering Intern @ CloudServ Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hariprasanthbandla/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/hariprasanth02/Telecom-Churn-Analysis-and-Prediction.git)
